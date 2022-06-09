@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "college-data-339113",
+  "private_key_id": "fa79511f083bd9d9353dff63e183aaddbeb5f4da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1pJA6RokEm/BL\n41pApMrDZbVTyH4e8umqnqjpjcTuSezV17dQifAJPFmtDFdU1Yh8lpXKAr/R7sUW\nt5dUC5ioicsCSOfrkNGRywmKXpYuRg9qeVHIn7pweNE6sWZ3770GSs84Hy00dtcr\nHF5RzzjHyLrKZsxZRSS7gnR47jRF3+yo1F0uGCUTarQJFz/nzdQRdJCZQeSWq9b2\nX5kEqHaCAlAEuWm+nTYHsDItG5xAB1edCE3ysWX/ATOqOPCtT15uryiEA9MC895g\nw2K8tq/L3Q2Cd5usD1kC4ZSsJ/szkVoIqO29duez8bRMhYuQubRLBSu5oSm+UWFH\nix/DUEaRAgMBAAECggEAHB/4cwWD5rJMgTuZOGQrvxiK/IeRO7KKCrCZX9xjLzBE\nGxJVIIPTJmLxUbGU/h44DW51j/tf/x3052ES7eEDyKjZRafLPTbFtEjXV9TwdQbF\nEUvqpWFSCWMzpl5citqUjppbvolZQwPZqiOw2QL4fDqw7XEAWBw0JVJ8PVNIxb60\nwxx8utzHNW6Px9lU4p9WXx9I1r86hQv/b4gX1mWJB33tSLKfm21raDnn+ygCw3rg\nUCy9b6CcMg3wDgDGi7Z53DifZ4OuOQhcP145jDUxJYJFVz3HMxhQPprJKBcfvsl3\nljtucf0B3HLzIUGLlHw3aT+j3ZIQ25zo4a+qLaYrSQKBgQDsY5jEGQ9jKEiSAVYe\npXEJ9AeZ5djUUDN8OEEfkQtdEtd4oKNMca9aI4W1LW4SJ4sHtgIwbz/sQLALNnip\nZYW1i3bOSSBYCSMof04ifGem8oBNVCqO9/yotgoZ+yhk+8QBRngO+4RdLWWOdubz\nw+Sc3oVMIDjv0avt/EkP/leTTQKBgQDEtkXOgYoF/Zse2pS/hw1o/RRdQ5YJxasw\naNXfMinCYn3PFnzcJfBSpduYbrf5Iu0pZAoSwdFr88WE1pKwvvN8V7+IbnPHJWT0\ngM+H9pL9U9VLGRGWx2J2myX4IKmdQkD06gZ4X0uC1QlDdZxAO71EMQx3MDVk1SCM\nzAUghoLWVQKBgQCtOG6BhDuaVbKYCxKocmNa/89yHtO9AOg5Zp+SGh9RnLT4V/5R\nzhzI2K7qDNhTxVZD2EPSajNVVDGshcX1m8dXOVNd5ogk+s0gp+kBrFfoJluOTtbA\n3Ufv+TV9xGXdWgBPTuw7TmO4Q8PfmZGznyCvMwBKwHH4ipSKWAzSA3b5IQKBgDMA\nj1jbfU3QU0fMpISEH5X5CC6mN2CRP7FtfQZBm1Iq9zOaQQVTUNwc5LLBAjI2PAdf\nSL1UQ1gZ/DxU5fOtjrPOjHpzKNGZgHNkcmpuI+5KriKqfUT6rSzTTSToUxHS+8SE\naOkMzCc/1QcIl1qQIqJrlS/R8AYUvDvFKg8k0QeBAoGBANkxu/AY0HRp4Lavfz1+\nbI9Z8X+01MVNbuC4sAybkapv6Y1WuMfPv2+34VHTy+5ePxIoDVj0p/OHHnNwLfIf\nm8SIPoHy3NMp5lc772HsoHSNYBouOYkOqN1J19P/MR99N+wIsaC6sEAd8HFrU7+b\nVQTi/fsI2U27ol0YSZ/SQeOi\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-y2l63stqzi3gdi638k6ixwm3es@college-data-339113.iam.gserviceaccount.com",
+  "client_id": "100883787406259468647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-y2l63stqzi3gdi638k6ixwm3es%40college-data-339113.iam.gserviceaccount.com"
+}
